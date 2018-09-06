@@ -1,3 +1,8 @@
+# Credit
+This code is forked from a project that use to exist here:
+
+https://github.com/jsonpoindexter/synchrobike
+    
 # synchrobike
 Synchronized LED across bike lights
 
